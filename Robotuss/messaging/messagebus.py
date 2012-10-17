@@ -5,8 +5,6 @@ Created on Tue Oct 16 12:36:37 2012
 @author: tuxbear
 
 """
-from sys import inspect
-
 
 class MessageBus:
     def __init__(self):
